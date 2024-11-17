@@ -2,9 +2,11 @@
 ECI Candidates Management Portal using Hibernate
 
 📌 Overview
+
 Welcome to the Election Portal, a Java-based console application designed to manage and retrieve candidate data for an election system. Powered by Hibernate ORM, this app allows you to perform CRUD operations and retrieve candidate details based on various attributes with ease.
 
 🚀 Features
+
 ✔️ Retrieve candidate details by ID or specific attributes (Name, State, Party, Gender).
 
 ✔️ Add new candidates to the database.
