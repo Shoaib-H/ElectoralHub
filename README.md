@@ -6,17 +6,27 @@ Welcome to the Election Portal, a Java-based console application designed to man
 
 🚀 Features
 ✔️ Retrieve candidate details by ID or specific attributes (Name, State, Party, Gender).
+
 ✔️ Add new candidates to the database.
+
 ✔️ Update existing candidate records.
+
 ✔️ Save or update candidate data seamlessly.
+
 ✔️ Delete candidate records.
+
 ✔️ Retrieve all candidate records or filter by gender (Male/Female).
+
 
 🛠️ Technologies Used
 Programming Language: Java
+
 Framework: Hibernate ORM
+
 Database: MySQL (or any relational database)
+
 Tools: JDBC, Eclipse/IntelliJ IDEA
+
 
 ![Screenshot 2024-11-17 230726](https://github.com/user-attachments/assets/6f7db4d7-1449-41b6-8949-c03241a9c02b)
 ![Screenshot 2024-11-17 230754](https://github.com/user-attachments/assets/54046ba9-166d-43ac-a27d-a95806b98760)
