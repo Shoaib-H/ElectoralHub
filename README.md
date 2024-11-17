@@ -21,12 +21,10 @@ Welcome to the Election Portal, a Java-based console application designed to man
 
 
 🛠️ Technologies Used
+
 Programming Language: Java
-
 Framework: Hibernate ORM
-
 Database: MySQL (or any relational database)
-
 Tools: JDBC, Eclipse/IntelliJ IDEA
 
 
