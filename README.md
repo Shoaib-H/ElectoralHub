@@ -23,9 +23,13 @@ Welcome to the Election Portal, a Java-based console application designed to man
 🛠️ Technologies Used
 
 Programming Language: Java
+
 Framework: Hibernate ORM
+
 Database: MySQL (or any relational database)
+
 Tools: JDBC, Eclipse/IntelliJ IDEA
+
 
 
 ![Screenshot 2024-11-17 230726](https://github.com/user-attachments/assets/6f7db4d7-1449-41b6-8949-c03241a9c02b)
